@@ -3,3 +3,6 @@ config.*.json
 !config.sample.json
 .env*
 !.env.sample
+
+# Token storage (contains sensitive OAuth tokens)
+tokens.json
